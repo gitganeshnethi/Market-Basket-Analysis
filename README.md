@@ -61,3 +61,5 @@ Example : Confidence{x,y} is different from Confidence{y,x}
   <li>When Lift = 1; implies no relationship between x and y i.e., x and y occur together only by chance</li>
   <li>When Lift > 1; implies there is positive relationship between x and y i.e., x and y occur together more offer than random</li>
   <li>When Lift < 1; implies there is negative relationship between x and y i.e., x and y occur less often and random</li></ul>
+
+<img src='http://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1530898580/Image_1_ip8nzc.png'>
