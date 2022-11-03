@@ -38,4 +38,4 @@ for i in rules:
                 'Confidence':a[2][0][2],
                 'lift':a[2][0][3]}
     df = df.append(curr_row,ignore_index=True)
-df.head(20)
+df.head(10)
